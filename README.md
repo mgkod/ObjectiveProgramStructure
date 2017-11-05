@@ -1,0 +1,2 @@
+# ObjectiveProgramStructure
+training project
